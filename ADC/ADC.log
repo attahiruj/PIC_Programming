@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K22 -DL -O11111114 -fo8 -N"C:\Users\Attahiru Jibril\Documents\Design\Electronics_Circuits-Embedded_System\mikroC\PIC_Grind\ADC\ADC.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Attahiru Jibril\Documents\Design\Electronics_Circuits-Embedded_System\mikroC\PIC_Grind\ADC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\Attahiru Jibril\Documents\Design\Electronics_Circuits-Embedded_System\mikroC\PIC_Grind\ADC\" "ADC.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_K22_B.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	ADC.c
+diagnostics: 41	123	Compiled Successfully	ADC.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 59 (4%)  Free RAM (bytes): 1456 (96%)	Used RAM (bytes): 59 (4%)  Free RAM (bytes): 1456 (96%)
+hint: 0	1144	Used ROM (bytes): 3277 (10%)  Free ROM (bytes): 29491 (90%)	Used ROM (bytes): 3277 (10%)  Free ROM (bytes): 29491 (90%)
+diagnostics: 0	125	Project Linked Successfully	ADC.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'ADC.mcppi' completed: 141 ms	 
+diagnostics: 0	103	Finished successfully: 16 May 2023, 21:20:18	ADC.mcppi

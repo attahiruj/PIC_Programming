@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F2220 -DL -O11111114 -fo8 -N"C:\Users\Attahiru Jibril\Documents\Design\Electronics_Circuits-Embedded_System\mikroC\PIC_Grind\Read_Switch\Read_Switch_code\Read_Switch.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Attahiru Jibril\Documents\Design\Electronics_Circuits-Embedded_System\mikroC\PIC_Grind\Read_Switch\Read_Switch_code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\Attahiru Jibril\Documents\Design\Electronics_Circuits-Embedded_System\mikroC\PIC_Grind\Read_Switch\Read_Switch_code\" "Read_Switch.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 491 [bytes], Available ROM: 4096 [bytes]	 
+diagnostics: 0	122	Compilation Started	Read_Switch.c
+diagnostics: 18	123	Compiled Successfully	Read_Switch.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 491 (99%)	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 491 (99%)
+hint: 0	1144	Used ROM (bytes): 72 (2%)  Free ROM (bytes): 4024 (98%)	Used ROM (bytes): 72 (2%)  Free ROM (bytes): 4024 (98%)
+diagnostics: 0	125	Project Linked Successfully	Read_Switch.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Read_Switch.mcppi' completed: 125 ms	 
+diagnostics: 0	103	Finished successfully: 15 May 2023, 21:26:16	Read_Switch.mcppi

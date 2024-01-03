@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\LCD_Print\LCD_Print.mcppi
+Project1=ADC.mcppi
+[ActiveProject]
+Index=1

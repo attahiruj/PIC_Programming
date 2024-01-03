@@ -1,0 +1,16 @@
+main
+	PWM1_Init
+	PWM2_Init
+	PWM1_Start
+	PWM2_Start
+	ADC_Init
+	ADC_Read
+		Delay_22us
+	Mul_32x32_U
+	Div_32x32_S
+		SDIV3232L
+		COMFREM
+	PWM1_Set_Duty
+		Mul_16X16_U
+	PWM2_Set_Duty
+		Mul_16X16_U

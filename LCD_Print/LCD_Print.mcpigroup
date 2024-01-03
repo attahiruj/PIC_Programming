@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\Led_Blink\Led_Blink_Code\Led_Blink.mcppi
+Project1=..\Read_Switch\Read_Switch_code\Read_Switch.mcppi
+Project2=LCD_Print.mcppi
+[ActiveProject]
+Index=2

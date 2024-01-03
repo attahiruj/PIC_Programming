@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K22 -DL -O11111114 -fo8 -N"C:\Users\Attahiru Jibril\Documents\Design\Electronics_Circuits-Embedded_System\mikroC\PIC_Grind\Interrupts\Exterrnal_Interrupt.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Attahiru Jibril\Documents\Design\Electronics_Circuits-Embedded_System\mikroC\PIC_Grind\Interrupts\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\Attahiru Jibril\Documents\Design\Electronics_Circuits-Embedded_System\mikroC\PIC_Grind\Interrupts\" "Exterrnal_Interrupt.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_UART_c67d67.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	Exterrnal_Interrupt.c
+warning: 68	1509	Generated baud rate is 19231 bps (error = 0.16 percent)	Exterrnal_Interrupt.c
+diagnostics: 85	123	Compiled Successfully	Exterrnal_Interrupt.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 61 (4%)  Free RAM (bytes): 1454 (96%)	Used RAM (bytes): 61 (4%)  Free RAM (bytes): 1454 (96%)
+hint: 0	1144	Used ROM (bytes): 540 (2%)  Free ROM (bytes): 32228 (98%)	Used ROM (bytes): 540 (2%)  Free ROM (bytes): 32228 (98%)
+diagnostics: 0	125	Project Linked Successfully	Exterrnal_Interrupt.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Exterrnal_Interrupt.mcppi' completed: 140 ms	 
+diagnostics: 0	103	Finished successfully: 24 May 2023, 20:41:20	Exterrnal_Interrupt.mcppi

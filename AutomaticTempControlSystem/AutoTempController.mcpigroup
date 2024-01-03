@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\Digital_Thermometer\Digital_Thermometer.mcppi
+Project1=AutoTempController.mcppi
+[ActiveProject]
+Index=1
